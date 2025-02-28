@@ -1,0 +1,2 @@
+# -GAN-Augmented-Multimodal-Biometrics-Enhancing-Security-and-Privacy
+A multimodal biometric system integrating voice and vein to enhance authentication security for sensitive places. Implemented advanced feature fusion techniques and applied steganography to embed biometric data securely into digital images. Tested system robustness against synthetic biometric attacks using Generative Adversarial Networks (GANs).
